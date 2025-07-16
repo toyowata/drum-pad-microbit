@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2025 Toyomasa Watarai <toyomasa.watarai@gmail.com>
+# SPDX-License-Identifier: Apache-2.0
+
 from microbit import *
 from array import array
 
