@@ -6,17 +6,17 @@ from array import array
 
 note_table = array("b", [
     60,
-    62, 
-    64, 
+    61,
+    62,
+    63,
+    64,
     65,
+    66,
     67,
+    68,
     69,
-    71,
-    72,
-    74,
-    76,
-    77,
-    79
+    70,
+    71
 ])
 
 drum_table = array("b", [
