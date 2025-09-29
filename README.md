@@ -5,7 +5,7 @@ Drum Pad demo for micro:bit
 タッチシールドとMIDI音源を使用したドラムパッドです。
 
 ## 使用した機材
-* micro:bit
+* micro:bit v1.5（MIDIの通信ボーレートが特殊なので、v2では動作しません）
 * Seeed micro:bit用GROVEシールド v2.0
 * Seeed 12 key capacitive I2C touch sensor V3
 * eVY1シールド
